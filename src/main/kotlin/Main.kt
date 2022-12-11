@@ -49,7 +49,7 @@ fun strToChucksCode(strBin: String): String {
     return strChucksCode
 }
 
-//decode Encoded string is not valid.
+//decode .
 fun decode() {
     println("Input encoded string:")
     try {
